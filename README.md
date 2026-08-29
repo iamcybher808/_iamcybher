@@ -3,4 +3,4 @@ I am a motivated cybersecurity professional with a strong Blue Team focus and ex
 ## Objective
 I didn't start my journey in tech right off the back. I began my journey to learn computers in 2020. Originally, I am a career changer; my focus was on understanding the human body and its functions (pre-med). I am now passionate about computers and how they work. The tables have turned, but the same method applies. My goal is to help companies maintain a healthy state/environment. If you understand the concept of body function, then maintaining the knowledge of computers is not far off.(˶>⩊<˶)
 ## Projects
-  - [Whack & Mole Game](https://interactive-github-game.v0.build)
+
