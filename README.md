@@ -4,3 +4,8 @@ I am a motivated cybersecurity professional with a strong Blue Team focus and ex
 I didn't start my journey in tech right off the back. I began my journey to learn computers in 2020. Originally, I am a career changer; my focus was on understanding the human body and its functions (pre-med). I am now passionate about computers and how they work. The tables have turned, but the same method applies. My goal is to help companies maintain a healthy state/environment. If you understand the concept of body function, then maintaining the knowledge of computers is not far off.(˶>⩊<˶)
 ## Projects
 
+## Cyber Jokes
+On a lighter note, I like to live life with a bit of laughter. If you are a dad, and love dad jokes. Check out the page below. 
+  - [185+ Hilarious Phishing Jokes to Hook You with Laughter and Fun] - https://punsify.com/phishing-jokes
+<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/3b7270d8-0e2f-44bd-9400-ec3016ce53b3" />
+
