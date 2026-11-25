@@ -7,9 +7,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Defending+the+digital+world;Detecting+threats+before+they+escalate;Hunting+adversaries+through+data;Building+a+stronger+cybersecurity+community" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/)
-[![Blue Team](https://img.shields.io/badge/Focus-Blue%20Team-0078D4?style=for-the-badge)](#)
-[![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-00C7B7?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cwrigh/)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@c.personalblog)
 
 </div>
 
